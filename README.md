@@ -1,4 +1,4 @@
-# CHEKPOINT FLAGS
+# CHECKPOINT FLAGS
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/83b9e556-9c3e-488e-8240-4512db822cda3" alt="Thumb" width="700px" />
