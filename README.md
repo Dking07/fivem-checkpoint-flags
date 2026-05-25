@@ -14,7 +14,7 @@ The pack includes two prop types — **Checkpoint** and **Start/Finish** — eac
  
 ### Checkpoint flags — `dking_checkpoint_*`
  
-7 color variations · **1.4 MB each**
+7 color variations · **376 KB each**
  
 | Model name | Color |
 |---|---|
@@ -28,7 +28,7 @@ The pack includes two prop types — **Checkpoint** and **Start/Finish** — eac
  
 ### Start / Finish flags — `dking_startfinish_*`
  
-5 color variations · **13 KB each**
+5 color variations · **22 KB each**
  
 | Model name | Color |
 |---|---|
@@ -42,7 +42,7 @@ The pack includes two prop types — **Checkpoint** and **Start/Finish** — eac
  
 - 12 props total — 7 checkpoint + 5 start/finish variations
 - Multiple color options to match any race event aesthetic
-- Lightweight start/finish props (17 KB) for minimal streaming overhead
+- Lightweight start/finish props (22 KB) for minimal streaming overhead
 - **Collision is only present on the largest stem** — the flag panels themselves have no collision, allowing props to be placed closely together or driven through without issues
 
 ## GET NOW
@@ -80,6 +80,14 @@ The pack includes two prop types — **Checkpoint** and **Start/Finish** — eac
     <summary style="margin-left: 20px;"><h3 style="display: inline;">1.0.0</h3></summary>
     <ul style="margin-left: 20px;">
       <li>Initial Release.</li>
+    </ul>
+  </details>
+
+  <details>
+    <summary style="margin-left: 20px;"><h3 style="display: inline;">1.0.1</h3></summary>
+    <ul style="margin-left: 20px;">
+      <li>Changed the font of 'CHECKPOINT';</li>
+      <li>Reduced the size of all checkpoint flags (from 1.4 MB to 376 KB).</li>
     </ul>
   </details>
 </details>
